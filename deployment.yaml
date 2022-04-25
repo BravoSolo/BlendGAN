@@ -10,7 +10,7 @@ command:
     streamlit run app.py
 models:
   - id: mosz1h7q3cpntkj
-    path: /opt/models/pretrained_models
+    path: /opt/models/
 repositories:
   dataset: dsvvvrd9msdm4eo
   mountPath: /opt/repos
