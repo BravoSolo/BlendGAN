@@ -15,7 +15,7 @@ repositories:
   dataset: dsvvvrd9msdm4eo
   mountPath: /opt/repos
   repositories:
-    - url: https://github.com/BravoSolo/BlendGAN
+    - url: https://github.com/joshua-paperspace/BlendGAN
       name: repo
       ref: main
 resources:
